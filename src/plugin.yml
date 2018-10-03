@@ -1,0 +1,8 @@
+main: xyz.sethome.SetHomeXYZ
+name: SetHomeXYZ
+version: 1.0
+description: A better SetHome plugin
+commands:
+  sethome:
+  home:
+  goback:
